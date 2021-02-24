@@ -1,5 +1,5 @@
-# STAR_KISS
-The "Star Kiss" model represents the guiding principles for modernizing U.S. election policy.
+# star-kiss
+The "Star-Kiss" model represents the guiding principles for modernizing U.S. election policy.
 
 
 What is/are the problem(s):
