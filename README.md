@@ -1,6 +1,5 @@
-# STARCQIS
-The STARCQIS ("star-kiss") model represents the guiding principles for modernizing U.S. election policy.
-
+# STAR_KISS
+The "Star Kiss" model represents the guiding principles for modernizing U.S. election policy.
 
 
 What is/are the problem(s):
