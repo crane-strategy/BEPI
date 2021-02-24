@@ -1,6 +1,19 @@
 # STARCQIS
 The STARCQIS ("star-kiss") model represents the guiding principles for modernizing U.S. election policy.
 
+
+How will the STARCQIS model solve the problem:
+
+By promoting consensus on the guiding principles needed to modernize local, state, and U.S. election policy.
+
+
+Why is it needed?
+
+U.S. Election policy needs modernization to address the "2020 U.S. Election Problem." 
+
+Consensus at local, state, and national levels will be needed to change policies.
+
+
 What is/are the problem(s) the STARCQIS model seeks to address:
 
 Lack of consistency in County election policies/procedures and State constitutions was used to dispute local and national elections.
@@ -9,8 +22,6 @@ The dispute of the U.S. Presidential election in U.S. Congress showcased critica
 
 There is fundamental error in process if elected officials challenging election results are able to overturn the outcome of an election.
 
-Why is it needed?
-U.S. Election policy needs modernization to address the "2020 U.S. Election Problem"
 
 In more detail, what was the "2020 U.S. Election Problem?"
 
