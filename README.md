@@ -1,6 +1,6 @@
 # star-kiss
 
-The STAARCQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies and systems.
+The STAARCQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies and systems with blockchain. 
 
 **Secure**: Ballots cannot be leaked, thrown out, falsified, or cast multiple times;
 
@@ -39,10 +39,7 @@ By promoting bipartisan consensus on the guiding principles needed to modernize 
 
 Why is it needed?
 
-U.S. Election policy needs modernization to address the "2020 U.S. Election Problem." 
-
-Bipartisan consensus at local, state, and national levels will be needed to change policies.
-
+This project began in February 2021 in response to the need for bipartisan consensus at local, state, and national levels to modernize U.S. Election policy and address the "2020 U.S. Election Problem." 
 
 
 In more detail, what was the "2020 U.S. Election Problem?"
