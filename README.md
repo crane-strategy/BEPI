@@ -1,3 +1,7 @@
+# Need
+
+A bipartisan approach is needed for using blockchain to modernize local, state, and federal elections.
+
 # star-kiss
 
 The STAARCQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies and systems with blockchain. 
