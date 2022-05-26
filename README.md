@@ -1,10 +1,10 @@
 # Need
 
-A bipartisan approach is needed for using blockchain to modernize local, state, and federal elections.
+A bipartisan approach for modernizing local, state, and federal elections with blockchain technology.
 
 # star-kiss
 
-The STAARCQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies and systems with blockchain. 
+The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies and systems with blockchain. 
 
 **Secure**: Ballots cannot be leaked, thrown out, falsified, or cast multiple times;
 
@@ -16,13 +16,11 @@ The STAARCQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to m
 
 **Repeatable**: Process and ballot counting can run smoothly at all levels (local, state, and federal);
 
-**Collaborative**: Consensus building through communication and participation;
-
 **Quick**: Ballots can be counted quickly;
 
 **Immutable**: Ballots cannot be changed or manipulated;
 
-**Safe**: People counting ballots should feel safe and free from intimidation, so work can be performed accurately.
+**Safe**: People counting ballots should feel safe and free from intimidation
 
 
 What is/are the problem(s):
