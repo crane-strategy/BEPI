@@ -1,10 +1,14 @@
 # Need
 
-A bipartisan approach for modernizing local, state, and federal elections with blockchain technology.
+A bipartisan approach for modernizing local, state, and federal ballot casting and counting.
 
-# star-kiss
+# The BEPI Approach
 
-The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies and systems with blockchain. 
+Bipartisan Election Protocols and Infrastructure (BEPI) seeks to improve how ballots are cast and counted.
+
+# Guiding Principles: The Star-Kiss Model
+
+The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies. 
 
 **Secure**: Ballots cannot be leaked, thrown out, falsified, or cast multiple times;
 
@@ -23,7 +27,13 @@ The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to mo
 **Safe**: People counting ballots should feel safe and free from intimidation
 
 
-What is/are the problem(s):
+# The BEPI Draft
+
+IN DEVELOPMENT
+
+
+
+**What is/are the problem(s):**
 
 Lack of consistency in County election policies/procedures and State constitutions was used to dispute local and national elections.
 
