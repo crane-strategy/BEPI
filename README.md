@@ -4,13 +4,22 @@ A bipartisan approach for modernizing local, state, and federal ballot casting a
 
 # The BEPI Approach
 
-Bipartisan Election Protocols and Infrastructure (BEPI) seeks to improve how ballots are cast and counted.
+Bipartisan Election Protocols and Infrastructure (BEPI) seeks to improve how ballots are casted and counted.
+
+# The Vision
+
+Equitable access to voting
+(1) Vote from anywhere up to 21 days prior to the election
+(2) Digitally verify voters easily in-person and online
+(3) Voters and ballot counters should feel safe and free from intimidation
+(4) Consistency across voting jurisidictions
+
 
 # Guiding Principles: The Star-Kiss Model
 
 The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies. 
 
-**Secure**: Ballots cannot be leaked, thrown out, falsified, or cast multiple times;
+**Safe**: People voting and people counting ballots should feel safe and free from intimidation;
 
 **Transparent**: Monitor ballot flow, count ballots faster, identify errors, and fix errors quickly;
 
@@ -24,13 +33,13 @@ The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to mo
 
 **Immutable**: Ballots cannot be changed or manipulated;
 
-**Safe**: People counting ballots should feel safe and free from intimidation
+**Secure**: Ballots cannot be leaked, thrown out, modified, falsified, sold to third parties, cast multiple times, or reveal personal information;
+
 
 
 # The BEPI Draft
 
 IN DEVELOPMENT
-
 
 
 #The problem we seek to address
