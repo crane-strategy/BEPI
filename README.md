@@ -33,7 +33,9 @@ IN DEVELOPMENT
 
 
 
-**What is/are the problem(s):**
+#The problem we seek to address
+
+What is the problem?
 
 Lack of consistency in County election policies/procedures and State constitutions was used to dispute local and national elections.
 
