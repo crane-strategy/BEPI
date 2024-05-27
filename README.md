@@ -15,9 +15,9 @@ Equitable access to voting
 (4) Consistency across voting jurisidictions
 
 
-# Guiding Principles: The Star-Kiss Model
+# Guiding Principles: The STAARQIS Model
 
-The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to modernize local, state, and federal election policies. 
+ Set of bipartisan guiding principles to guide the modernization of local, state, and federal election policies. 
 
 **Safe**: People voting and people counting ballots should feel safe and free from intimidation;
 
@@ -37,14 +37,8 @@ The STAARQIS ("Star-Kiss") Model is a set of bipartisan guiding principles to mo
 
 
 
-# The BEPI Draft
 
-IN DEVELOPMENT
-
-
-#The problem we seek to address
-
-What is the problem?
+#What is the problem?
 
 Lack of consistency in County election policies/procedures and State constitutions was used to dispute local and national elections.
 
